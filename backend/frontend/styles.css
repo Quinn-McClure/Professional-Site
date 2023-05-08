@@ -1,3 +1,4 @@
 .text-box {
-    padding: 50 px;
+    display: inline-block;
+    margin-left: 20 px;
 }

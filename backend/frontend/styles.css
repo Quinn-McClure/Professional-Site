@@ -1,4 +1,4 @@
 .text-box {
-    display: inline-block;
-    margin-left: 20 px;
+    margin: 40px;
+    color: blue
 }
